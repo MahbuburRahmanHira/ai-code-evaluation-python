@@ -1,0 +1,2 @@
+Write a Python function solve() that performs Dijkstra’s algorithm on a weighted graph and returns shortest distances.
+Only Python code.

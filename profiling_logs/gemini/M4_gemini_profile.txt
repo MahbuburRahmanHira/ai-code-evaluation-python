@@ -1,0 +1,4 @@
+Result: [['eat', 'tea', 'ate'], ['tan', 'nat'], ['bat']]
+Avg exec time: 8.058547973632812e-05
+CPU time: 9.430000000000002e-05
+Function calls: 24

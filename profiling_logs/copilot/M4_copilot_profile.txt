@@ -1,0 +1,4 @@
+Result: [[['eat', 'tea', 'ate'], ['tan', 'nat'], ['bat']], [['listen', 'silent', 'enlist'], ['google', 'gogole']], [], [['a', 'a'], ['b'], ['c']]]
+Avg exec time: 9.632110595703125e-05
+CPU time: 0.00010410000000000001
+Function calls: 61

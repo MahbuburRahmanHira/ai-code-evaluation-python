@@ -1,0 +1,2 @@
+Write a Python function solve() that adds two numbers represented by linked lists, digits stored in reverse order.
+Return the resulting linked list. Python code only.

@@ -1,0 +1,4 @@
+Result: <A1_copilot.TreeNode object at 0x000002789D9C3820>
+Avg exec time: 5.078315734863281e-05
+CPU time: 5.940000000000001e-05
+Function calls: 43

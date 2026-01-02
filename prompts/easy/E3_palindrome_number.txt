@@ -1,0 +1,2 @@
+Write a Python function solve() that checks if an integer is a palindrome.
+Return True or False. Only Python code. No comments.

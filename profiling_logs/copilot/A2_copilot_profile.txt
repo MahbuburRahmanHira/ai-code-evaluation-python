@@ -1,0 +1,4 @@
+Result: <A2_copilot.LRUCache object at 0x00000234A32C3CB0>
+Avg exec time: 0.00011038780212402344
+CPU time: 0.0001298
+Function calls: 46

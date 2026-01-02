@@ -1,0 +1,4 @@
+Result: [[[1], [2, 3], [4, 5]]]
+Avg exec time: 4.6253204345703125e-05
+CPU time: 5.4600000000000006e-05
+Function calls: 31

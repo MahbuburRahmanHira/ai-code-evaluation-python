@@ -1,0 +1,4 @@
+Result: True
+Avg exec time: 7.867813110351562e-06
+CPU time: 1.7e-05
+Function calls: 5

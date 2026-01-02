@@ -1,0 +1,2 @@
+Implement an LRU Cache class with get(key) and put(key, value) in O(1) time.
+Only Python code.

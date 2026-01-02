@@ -1,0 +1,4 @@
+Result: <A2_chatgpt.LRUCache object at 0x000001D6B943F380>
+Avg exec time: 7.796287536621094e-05
+CPU time: 8.740000000000001e-05
+Function calls: 36

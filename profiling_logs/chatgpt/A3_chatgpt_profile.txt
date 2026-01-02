@@ -1,0 +1,4 @@
+Result: ['eat', 'oath']
+Avg exec time: 0.00011277198791503906
+CPU time: 0.000127
+Function calls: 81

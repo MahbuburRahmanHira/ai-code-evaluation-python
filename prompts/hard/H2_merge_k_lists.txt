@@ -1,0 +1,2 @@
+Write a Python function solve() that merges k sorted linked lists into one list.
+Use a priority queue. Only Python code.

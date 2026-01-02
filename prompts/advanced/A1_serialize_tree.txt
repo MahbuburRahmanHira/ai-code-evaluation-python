@@ -1,0 +1,2 @@
+Write Python functions serialize(root) and deserialize(data) for a binary tree.
+Only Python code.

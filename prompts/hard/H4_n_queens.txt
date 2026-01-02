@@ -1,0 +1,2 @@
+Write a Python function solve() that solves the N-Queens puzzle and returns all solutions.
+Only Python code.

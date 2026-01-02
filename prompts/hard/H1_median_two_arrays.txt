@@ -1,0 +1,2 @@
+Write a Python function solve() that returns the median of two sorted arrays.
+Time complexity must be O(log n). Only Python code.

@@ -1,0 +1,4 @@
+Result: <A2_gemini.LRUCache object at 0x000002E5A7233CB0>
+Avg exec time: 5.2928924560546875e-05
+CPU time: 6.52e-05
+Function calls: 41

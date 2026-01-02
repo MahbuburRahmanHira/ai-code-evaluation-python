@@ -1,0 +1,2 @@
+You are given two sorted linked lists. Write a Python function solve() that merges them into one sorted list.
+Use a ListNode class. Only Python code.

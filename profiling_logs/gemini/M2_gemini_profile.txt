@@ -1,0 +1,4 @@
+Result: <M2_gemini.ListNode object at 0x0000016931C367A0>
+Avg exec time: 3.743171691894531e-05
+CPU time: 5.0700000000000006e-05
+Function calls: 17

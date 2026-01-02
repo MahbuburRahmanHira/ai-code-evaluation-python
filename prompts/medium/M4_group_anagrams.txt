@@ -1,0 +1,2 @@
+Write a Python function solve() that groups a list of words into anagrams.
+Return list of groups. Only Python code.

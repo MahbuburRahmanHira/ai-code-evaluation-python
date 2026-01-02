@@ -1,0 +1,3 @@
+Write a Python function called solve() that takes an input list nums and an integer target.
+Return the indices of the two numbers that add up to the target.
+Return any valid pair. Do not include explanations. Provide only Python code.

@@ -1,0 +1,4 @@
+Result: <A1_chatgpt.TreeNode object at 0x00000162D3D43820>
+Avg exec time: 0.00013589859008789062
+CPU time: 0.0001479
+Function calls: 51

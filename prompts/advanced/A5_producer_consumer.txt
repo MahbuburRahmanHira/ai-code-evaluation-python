@@ -1,0 +1,2 @@
+Implement a multithreaded producer-consumer system using threading, locks, and a bounded buffer.
+Only Python code.

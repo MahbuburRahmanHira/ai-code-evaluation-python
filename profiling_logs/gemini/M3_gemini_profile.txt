@@ -1,0 +1,4 @@
+Result: [[3], [9, 20], [15, 7]]
+Avg exec time: 9.751319885253906e-05
+CPU time: 0.0001104
+Function calls: 41

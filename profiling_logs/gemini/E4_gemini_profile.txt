@@ -1,0 +1,4 @@
+Result: <E4_gemini.ListNode object at 0x0000012787E03CB0>
+Avg exec time: 2.2172927856445312e-05
+CPU time: 3.08e-05
+Function calls: 11

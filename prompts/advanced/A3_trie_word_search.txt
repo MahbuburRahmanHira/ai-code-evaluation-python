@@ -1,0 +1,2 @@
+Implement a Trie and write a function solve() that finds all words from a dictionary inside a 2D board.
+Only Python code.

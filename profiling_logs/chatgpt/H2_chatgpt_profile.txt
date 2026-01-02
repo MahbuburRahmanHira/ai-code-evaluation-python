@@ -1,0 +1,4 @@
+Result: [1, 1, 2, 3, 4, 4, 5, 6]
+Avg exec time: 0.0021195411682128906
+CPU time: 0.0021306000000000003
+Function calls: 503

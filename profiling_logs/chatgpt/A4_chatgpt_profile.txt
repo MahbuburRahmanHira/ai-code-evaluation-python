@@ -1,0 +1,4 @@
+Result: {'A': 0, 'B': 1, 'C': 3, 'D': 4}
+Avg exec time: 4.935264587402344e-05
+CPU time: 6.51e-05
+Function calls: 20

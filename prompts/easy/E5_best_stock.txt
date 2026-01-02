@@ -1,0 +1,2 @@
+Write a Python function solve() that receives a list of stock prices and returns the maximum possible profit from one buy and one sell.
+Only Python code.

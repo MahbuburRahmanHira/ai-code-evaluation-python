@@ -1,0 +1,2 @@
+Write a Python function solve() that finds the shortest transformation sequence length from beginWord to endWord using BFS.
+Only Python code.

@@ -1,0 +1,2 @@
+Write a Python function solve() that performs a level-order traversal (BFS) on a binary tree and returns a list of lists.
+Only Python code.

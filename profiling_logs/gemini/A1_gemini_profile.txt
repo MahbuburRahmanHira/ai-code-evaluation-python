@@ -1,0 +1,4 @@
+Result: <A1_gemini.TreeNode object at 0x000001E580FD3950>
+Avg exec time: 6.794929504394531e-05
+CPU time: 7.680000000000001e-05
+Function calls: 45
